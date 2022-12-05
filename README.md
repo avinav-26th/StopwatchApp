@@ -4,7 +4,7 @@ A simple Stowatch app, made using flutter. I made this project to learn about th
 
 The UI is smooth and simple, to romnve all the laps just long-press the flag-button. To know about the functioning, refer the code in the "main.dart" file inside the "lib" folder.
 
-To install the app, download the <a href="https://github.com/avinav-26th/StopwatchApp/files/10152835/1379-kehetkabir.pdf">apk</a> file.
+To install the app, download the [apk](https://github.com/avinav-26th/StopwatchApp/blob/main/app-armeabi-v7a-release.apk) file.
 
 Here are some screen shots of the app:
 
