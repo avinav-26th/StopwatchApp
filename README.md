@@ -1,16 +1,12 @@
 # stopwatch_flutter
 
-A new Flutter project.
+A simple Stowatch app, made using flutter. I made this project to learn about the "Timer" class and "InkWell" widget.
 
-## Getting Started
+The UI is smooth and simple, to romnve all the laps just long-press the flag-button. To know about the functioning, refer the code in the "main.dart" file inside the "lib" folder.
 
-This project is a starting point for a Flutter application.
+To install the app, download the apk/ipa file.
 
-A few resources to get you started if this is your first Flutter project:
+Here are some screen shots of the app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot (6)](https://user-images.githubusercontent.com/79656610/205598827-9d25bd62-ab20-4c59-b4b2-fdddc0c137bd.png)
